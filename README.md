@@ -11,7 +11,7 @@
 first download the frontend -> https://github.com/Harold-y/javaonlineide_frontend, then cd that folder, run ```npm install npm-install-all -g``` to install all modules. Second you need to download the backend and use the MySQL file to create the database. Then, get webssh2(https://github.com/billchurch/webssh2).
 Start the webssh2, the frontend (using ```npm start```), then start the backend.
 
-get into ```localhost:3000```` to use the IDE.
+get into ```localhost:3000``` to use the IDE.
 
 ### Functions
 - You will first enter the main page, you can create java, maven, and spring projects, or opening existing ones
