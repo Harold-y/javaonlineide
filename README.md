@@ -1,5 +1,6 @@
 ﻿# Java Online IDE by Harold Ye
 ### Hi there 👋
+This is a React + Spring Boot project that can help you code in Java (or other languages) online (on your server).
 
 ### Development Components
 - Backend (This Project): Spring Boot
